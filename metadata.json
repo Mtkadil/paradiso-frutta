@@ -1,0 +1,6 @@
+{
+  "name": "Paradiso – Frutta & Verdura",
+  "description": "Sito web professionale e prototipo per Paradiso – Frutta & Verdura a Borgosesia (Piemonte). Freschezza quotidiana, bottega locale e mercati del territorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
